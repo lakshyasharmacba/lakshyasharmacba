@@ -1,22 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=170&section=header&text=Lakshya%20Prasher&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%">
-
 # 👋 Hi, I'm Lakshya Prasher
 
 ### 💻 Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+Developer;Building+Real+World+Projects">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&pause=1000\&color=36BCF7\&center=true\&vCenter=true\&width=650\&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+%26+Express.js+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-<br>
+<p>
+  <a href="https://github.com/lakshyasharmacba">
+    <img src="https://img.shields.io/badge/GitHub-lakshyasharmacba-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wanderlust-project-5sxs.onrender.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-WanderLust-00C853?style=for-the-badge" />
+  </a>
+</p>
 
-<a href="https://github.com/lakshyasharmacba">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://wanderlust-project-5sxs.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-WanderLust-00C853?style=for-the-badge">
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
 
@@ -24,119 +23,153 @@
 
 ## 👨‍💻 About Me
 
-I'm **Lakshya Prasher**, a B.Tech Computer Science student focused on **Full Stack Web Development**.
+Hi! I'm **Lakshya Prasher**, a B.Tech Computer Science student and aspiring **Full Stack Developer**.
 
-I enjoy building practical web applications, developing backend APIs, working with databases and creating responsive user experiences.
+I enjoy building real-world web applications, working with backend APIs, databases, authentication systems and modern frontend technologies.
 
-- 💻 Full Stack Web Development
-- ⚛️ React.js
-- 🟢 Node.js & Express.js
-- 🍃 MongoDB
-- 🗄️ SQL
-- 🎨 HTML, CSS, Bootstrap & Tailwind CSS
-- 🔐 Authentication & Authorization
-- 🚀 REST APIs & Deployment
+* 💻 Focused on **Full Stack Web Development**
+* ⚛️ Building applications with **React.js**
+* 🟢 Developing backend applications using **Node.js & Express.js**
+* 🍃 Working with **MongoDB**
+* 🗄️ Familiar with **SQL**
+* 🎨 Comfortable with **HTML, CSS, Bootstrap & Tailwind CSS**
+* 🔐 Interested in authentication, authorization and REST APIs
+* 🚀 Building practical and deployment-ready projects
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 🎨 Frontend
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
-### Backend
+### ⚙️ Backend
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Database
+### 🗄️ Database
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-### Tools
+### 🔧 Tools & Technologies
 
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
 ---
 
 # 🚀 Featured Project
 
-## 🏡 WanderLust
+## 🏡 WanderLust — Full Stack Travel Platform
 
-### 🌍 Full Stack Travel Listing Platform
+<div align="center">
 
-WanderLust is a full-stack travel listing platform where users can explore destinations, create listings, upload images and share reviews.
+### 🌍 Discover • Create • Review • Explore
 
-### ✨ Features
+</div>
 
-- 🔐 User Authentication
-- 👤 Authorization
-- 🏠 Create Listings
-- ✏️ Update Listings
-- 🗑️ Delete Listings
-- 🖼️ Image Uploads
-- ⭐ Reviews & Ratings
-- 🔒 Owner Authorization
-- 🍪 Session Management
-- 🗄️ MongoDB Database
-- 📱 Responsive UI
-- ☁️ Cloud Deployment
+**WanderLust** is a full-stack travel listing web application where users can explore travel destinations, create listings, upload images, manage their properties and interact through reviews.
 
-### 🧰 Technologies
+### ✨ Key Features
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+* 🔐 Secure User Authentication
+* 👤 User Authorization
+* 🏠 Create Travel Listings
+* ✏️ Update Existing Listings
+* 🗑️ Delete Listings
+* 🖼️ Image Upload & Management
+* ⭐ Reviews & Ratings
+* 💬 Review Management
+* 🔒 Owner & Review Author Authorization
+* 🍪 Session Management
+* ⚡ RESTful Routing
+* 🗄️ MongoDB Database
+* 📱 Responsive User Interface
+* ☁️ Deployed Application
 
-### 🔗 Project Links
+### 💻 Technologies Used
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,bootstrap" />
+</p>
+
+**Frontend:** EJS, HTML, CSS, JavaScript, Bootstrap
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Authentication:** Passport.js, Sessions
+**Deployment:** Render
 
 <div align="center">
 
 <a href="https://wanderlust-project-5sxs.onrender.com">
-<img src="https://img.shields.io/badge/🚀%20OPEN%20LIVE%20PROJECT-00C853?style=for-the-badge">
-</a>
 
-<a href="https://github.com/lakshyasharmacba/WanderLust-MERN-Stack">
-<img src="https://img.shields.io/badge/💻%20VIEW%20SOURCE%20CODE-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PROJECT-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📸 Project Preview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lakshyasharmacba&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+### 🏠 Home Page
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasharmacba&theme=tokyonight&hide_border=true">
+<img src="./assets/wanderlust-home.png" width="90%" />
+
+<br><br>
+
+### 🗺️ Listings
+
+<img src="./assets/wanderlust-listings.png" width="90%" />
+
+<br><br>
+
+### 🏡 Listing Details
+
+<img src="./assets/wanderlust-details.png" width="90%" />
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/lakshyasharmacba">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyasharmacba&layout=compact&theme=tokyonight&hide_border=true">
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=lakshyasharmacba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5">
+💼 Open to **Full Stack Development opportunities**
+
+🚀 Interested in **MERN Stack & Backend Development**
+
+🤝 Open to **collaboration and interesting projects**
 
 </div>
 
@@ -144,30 +177,22 @@ WanderLust is a full-stack travel listing platform where users can explore desti
 
 ## 📚 Currently Learning
 
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black">
-<img src="https://img.shields.io/badge/Advanced_JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat-square">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,mysql" />
 
-## 🎯 2026 Goals
+<br><br>
 
-- 🚀 Build production-ready Full Stack applications
-- ⚛️ Strengthen React.js
-- 🟢 Master Node.js & Express.js
-- 🗄️ Work with PostgreSQL
-- 🔐 Build secure authentication systems
-- ☁️ Deploy real-world applications
-- 💼 Prepare for Full Stack Developer opportunities
+**React.js • Advanced JavaScript • Node.js • Express.js • REST APIs • Authentication • MongoDB • SQL**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 💻 Code • Build • Learn • Repeat 🚀
+### 🚀 Building • Learning • Improving
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:36BCF7&height=120&section=footer" width="100%">
+**Thanks for visiting my profile!**
 
 </div>
