@@ -1,68 +1,187 @@
-# Hi, I'm Lakshya Prasher 👋
+<div align="center">
 
-### Full Stack Developer | MERN Stack
+# 👋 Hi, I'm Lakshya Prasher
 
-I'm a B.Tech Computer Science student passionate about building full-stack web applications and learning modern web technologies.
+### 💻 Full Stack Developer
 
-## 🚀 About Me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Developer;React.js+Developer;Node.js+%26+Express.js+Developer;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
-- 💻 Full Stack Web Developer
-- ⚛️ Learning and building with React.js
-- 🟢 Building backend applications with Node.js & Express.js
-- 🍃 Working with MongoDB
-- 🗄️ Familiar with SQL
-- 🎨 HTML, CSS, Bootstrap & Tailwind CSS
-- 📚 Continuously learning and improving my development skills
+<p>
+  <a href="https://github.com/lakshyasharmacba">
+    <img src="https://img.shields.io/badge/GitHub-lakshyasharmacba-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://wanderlust-project-5sxs.onrender.com">
+    <img src="https://img.shields.io/badge/🚀_Live_Demo-WanderLust-00C853?style=for-the-badge" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6A5ACD&height=180&section=header&text=Full%20Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi! I'm **Lakshya Prasher**, a B.Tech Computer Science student and aspiring **Full Stack Developer**.
+
+I enjoy building real-world web applications, working with backend APIs, databases, authentication systems and modern frontend technologies.
+
+- 💻 Focused on **Full Stack Web Development**
+- ⚛️ Building applications with **React.js**
+- 🟢 Developing backend applications using **Node.js & Express.js**
+- 🍃 Working with **MongoDB**
+- 🗄️ Familiar with **SQL**
+- 🎨 Comfortable with **HTML, CSS, Bootstrap & Tailwind CSS**
+- 🔐 Interested in authentication, authorization and REST APIs
+- 🚀 Building practical and deployment-ready projects
+
+---
 
 ## 🛠️ Tech Stack
 
-### Frontend
-HTML5 • CSS3 • JavaScript • React.js • Bootstrap • Tailwind CSS
+### 🎨 Frontend
 
-### Backend
-Node.js • Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+</p>
 
-### Database
-MongoDB • SQL
+### ⚙️ Backend
 
-### Tools
-Git • GitHub • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-## 📌 Featured Project
+### 🗄️ Database
 
-### 🏡 WanderLust
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-A full-stack travel listing web application where users can explore, create, update and manage travel listings.
+### 🔧 Tools & Technologies
 
-**Features:**
-- 🔐 User authentication
-- 🏠 Create, update and delete listings
-- 🖼️ Image uploads
-- ⭐ Reviews and ratings
-- 🔒 Authorization
-- 🍪 Session management
-- 🗄️ MongoDB database
-- 📱 Responsive user interface
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+</p>
 
-**Tech Stack:**
+---
 
-Node.js • Express.js • MongoDB • EJS • Bootstrap • JavaScript
+# 🚀 Featured Project
 
-## 🎯 Currently Learning
+## 🏡 WanderLust — Full Stack Travel Platform
 
-- React.js
-- Advanced JavaScript
-- Node.js & Express.js
-- REST APIs
-- Authentication & Authorization
-- Full Stack Development
+<div align="center">
 
-## 📊 GitHub Stats
+### 🌍 Discover • Create • Review • Explore
 
-![Lakshya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyasharmacba&show_icons=true&theme=dark)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyasharmacba&layout=compact&theme=dark)
+**WanderLust** is a full-stack travel listing web application where users can explore travel destinations, create listings, upload images, manage their properties and interact through reviews.
 
-## 📫 Connect With Me
+### ✨ Key Features
 
-- GitHub: [@lakshyasharmacba](https://github.com/lakshyasharmacba)
+- 🔐 Secure User Authentication
+- 👤 User Authorization
+- 🏠 Create Travel Listings
+- ✏️ Update Existing Listings
+- 🗑️ Delete Listings
+- 🖼️ Image Upload & Management
+- ⭐ Reviews & Ratings
+- 💬 Review Management
+- 🔒 Owner & Review Author Authorization
+- 🍪 Session Management
+- ⚡ RESTful Routing
+- 🗄️ MongoDB Database
+- 📱 Responsive User Interface
+- ☁️ Deployed Application
+
+### 💻 Technologies Used
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js,bootstrap" />
+</p>
+
+**Frontend:** EJS, HTML, CSS, JavaScript, Bootstrap  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Authentication:** Passport.js, Sessions  
+**Deployment:** Render
+
+<div align="center">
+
+<a href="https://wanderlust-project-5sxs.onrender.com">
+
+<img src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PROJECT-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
+
+</a>
+
+</div>
+
+---
+
+## 📸 Project Preview
+
+<div align="center">
+
+### 🏠 Home Page
+
+<img src="./assets/wanderlust-home.png" width="90%" />
+
+<br><br>
+
+### 🗺️ Listings
+
+<img src="./assets/wanderlust-listings.png" width="90%" />
+
+<br><br>
+
+### 🏡 Listing Details
+
+<img src="./assets/wanderlust-details.png" width="90%" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lakshyasharmacba&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyasharmacba&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyasharmacba&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=lakshyasharmacba&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" width="95%" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+```text
+React.js
+Advanced JavaScript
+Node.js
+Express.js
+REST APIs
+Authentication & Authorization
+MongoDB
+SQL
+Full Stack Development
