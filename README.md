@@ -10,7 +10,7 @@
   <a href="https://github.com/lakshyasharmacba">
     <img src="https://img.shields.io/badge/GitHub-lakshyasharmacba-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://wanderlust-project-5sxs.onrender.com">
+  <a href="https://wanderlust-mern-stack-0ll6.onrender.com/">
     <img src="https://img.shields.io/badge/🚀_Live_Demo-WanderLust-00C853?style=for-the-badge" />
   </a>
 </p>
@@ -109,7 +109,7 @@ I enjoy building real-world web applications, working with backend APIs, databas
 
 <div align="center">
 
-<a href="https://wanderlust-project-5sxs.onrender.com">
+<a href="https://wanderlust-mern-stack-0ll6.onrender.com/">
 
 <img src="https://img.shields.io/badge/🚀%20VIEW%20LIVE%20PROJECT-00C853?style=for-the-badge&logo=googlechrome&logoColor=white" />
 
@@ -118,29 +118,6 @@ I enjoy building real-world web applications, working with backend APIs, databas
 </div>
 
 ---
-
-## 📸 Project Preview
-
-<div align="center">
-
-### 🏠 Home Page
-
-<img src="./assets/wanderlust-home.png" width="90%" />
-
-<br><br>
-
-### 🗺️ Listings
-
-<img src="./assets/wanderlust-listings.png" width="90%" />
-
-<br><br>
-
-### 🏡 Listing Details
-
-<img src="./assets/wanderlust-details.png" width="90%" />
-
-</div>
-
 ---
 
 ## 🤝 Connect With Me
